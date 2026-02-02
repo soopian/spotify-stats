@@ -3,7 +3,7 @@ import os
 from collections import defaultdict
 
 # Folder containing your JSON files
-folder_path = 'spotify'  # ⬅️ Change this to your folder
+folder_path = 'spotify'  #  Change this to your folder
 
 # Initialize accumulators
 song_play_time = defaultdict(int)
